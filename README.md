@@ -1,1 +1,1 @@
-install_github("angeella/sangRia")
+devtools::install_github("angeella/sangRia")
